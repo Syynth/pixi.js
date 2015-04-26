@@ -7,7 +7,7 @@
     "Chad Engler <chad@pantherdev.com>",
     "Richard Davey <rdavey@gmail.com>"
   ],
-  "main": "./src/index.js",
+  "main": "./bin/index.js",
   "homepage": "http://goodboydigital.com/",
   "bugs": "https://github.com/GoodBoyDigital/pixi.js/issues",
   "license": "MIT",
